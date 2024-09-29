@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="src"/>
+    <File Path="src\uDMPrincipal.pas"/>
+    <File Path="src\uDMPrincipal.dfm"/>
+    <File Path="src\uDMSecundario.pas"/>
+    <File Path="src\uDMSecundario.dfm"/>
+    <File Path="src\uPrincipal.pas"/>
+    <File Path="src\uPrincipal.dfm"/>
+    <File Path="src\uSock.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>

@@ -1,0 +1,16 @@
+program testerestserver;
+
+uses uRESTDWFphttpBase, uRESTDWdatamodule;
+
+Type
+ TServerClass = Class(TServerMethodClass)
+ Public
+ Published
+End;
+
+Var
+ ServicePooler : TRESTDWFphttpServicePooler;
+
+begin
+
+end.
